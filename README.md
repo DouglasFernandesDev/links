@@ -234,6 +234,8 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 
 [Any API](https://any-api.com/)
 
+[API Grátis](https://apigratis.com.br/)
+
 [Public APIs](https://publicapis.dev/)
 
 [Big List of Free and Open Public APIs (No Auth Needed) by Ana Kravitz](https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/)
@@ -367,6 +369,8 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 
 [WorkFlowy](https://workflowy.com/)
 
+[Trello](https://trello.com/)
+
 
 
 
@@ -460,7 +464,9 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 
 [Trampos](https://trampos.co/)
 
-[99Freelas](https://www.99freelas.com.br/)
+[99Freelas](https://www.99freelas.com.br)
+
+[Vagas.com.br](https://www.vagas.com.br/)
 
 
 # Sites que podem ajudar na sua carreira dev
@@ -563,6 +569,11 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 
 [The Net Ninja](https://www.youtube.com/c/TheNetNinja)
 
+[Online Tutorials](https://www.youtube.com/c/OnlineTutorials4Designers)
+
+[Curso em Video](https://www.youtube.com/c/CursoemVideo)
+
+
 
 # Páginas do Instagram com Conteúdo para Devs
 
@@ -632,6 +643,8 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 
 [FreeCodeCamp](https://www.freecodecamp.org/)
 
+[FIAP](https://on.fiap.com.br/)
+
 
 # Eventos para Devs
 
@@ -661,6 +674,8 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 [Listas maravilhosas de listas maravilhosas](https://github.com/sindresorhus/awesome)
 
 [Questões e respostas de entrevistas com código](https://github.com/sudheerj/javascript-interview-questions)
+
+[Gerador de Readme para seu Perfil do GitHub](https://github.com/rahuldkjain/github-profile-readme-generator)
 
 
 # Banco de Dados em Cloud
