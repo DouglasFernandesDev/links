@@ -70,6 +70,8 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 
 [Frontend mentor - Desafios de códigos com foco em Front-end](https://www.frontendmentor.io/)
 
+[Daily UI - Desafios Front-end diários](https://www.dailyui.co/)
+
 [Repositório com idéias para incrementar no seu código](https://github.com/florinpop17/app-ideas)
 
 [Acervo com 40 projetos para começar na programação (FreeCodeCamp)](https://www.freecodecamp.org/portuguese/news/40-projetos-em-javascript-para-iniciantes-ideias-simples-para-comecar-a-programar-em-js/amp/)
