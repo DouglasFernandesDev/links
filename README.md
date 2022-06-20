@@ -154,6 +154,10 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 > Ilustrações criativas de páginas não encontradas em [404 Illustrations](https://www.kapwing.com/404-illustrations)
 >
 > Backgrounds animados com CSS para seus projetos em [Animated Backgrounds](https://animatedbackgrounds.me/)
+>
+> Ícones em 3D customizaveis: [Vertex](https://vertex.im/)
+>
+> Customize vetores em 3D: [Spline Tool](https://linktr.ee/splinetool)
 
 
 
