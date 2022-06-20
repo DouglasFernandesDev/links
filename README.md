@@ -152,6 +152,8 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 > **Extra:** 
 >
 > Ilustrações criativas de páginas não encontradas em [404 Illustrations](https://www.kapwing.com/404-illustrations)
+>
+> Backgrounds animados com CSS para seus projetos em [Animated Backgrounds](https://animatedbackgrounds.me/)
 
 
 
@@ -442,6 +444,8 @@ Envie suas sugestões de links a serem adicionados na lista através de pull req
 [TopCoder](https://www.topcoder.com/)
 
 [Code Signal](https://codesignal.com/)
+
+[Grass Hopepr](https://grasshopper.app/pt_br/)
 
 
 <br>
